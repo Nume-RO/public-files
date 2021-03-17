@@ -2,6 +2,5 @@
 2 2.thor
 3 3.thor
 4 4.thor
-5 5.thor
-6 6.thor
-7 7.thor
+5 5a.thor
+6 5b.thor
