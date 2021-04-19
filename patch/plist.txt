@@ -24,3 +24,4 @@
 24 numero-20210418_iteminfo.thor
 //25 numero-20210419_data.thor
 26 numero-20210419_iteminfo_a.thor
+27 numero-20210419_data_a.thor
