@@ -22,5 +22,5 @@
 22 21.thor
 23 22.thor
 24 numero-20210418_iteminfo.thor
-25 numero-20210419_data.thor
+//25 numero-20210419_data.thor
 26 numero-20210419_iteminfo_a.thor
