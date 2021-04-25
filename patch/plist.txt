@@ -25,3 +25,4 @@
 //25 numero-20210419_data.thor
 26 numero-20210419_iteminfo_a.thor
 27 numero-20210419_data_a.thor
+28 numero-20210425_wavsound_a.thor
