@@ -26,3 +26,6 @@
 26 numero-20210419_iteminfo_a.thor
 27 numero-20210419_data_a.thor
 28 numero-20210425_wavsound_a.thor
+29 numero-20210425_customitem_a.thor
+30 numero-20210425_customitem_b.thor
+31 numero-20210425_customitem_c.thor
