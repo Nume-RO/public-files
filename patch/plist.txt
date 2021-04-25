@@ -29,3 +29,4 @@
 29 numero-20210425_customitem_a.thor
 30 numero-20210425_customitem_b.thor
 31 numero-20210425_customitem_c.thor
+32 numero-20210425_customitem_d.thor
