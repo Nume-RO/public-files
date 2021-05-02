@@ -33,3 +33,6 @@
 33 numero-20210425_customitem_e.thor
 34 numero-20210426_systemfixed_a.thor
 35 numero-20210426_luafixed_b.thor
+36 numero-20210502_pallete_a.thor
+37 numero-20210502_pallete_b.thor
+38 numero-20210502_pallete_c.thor
