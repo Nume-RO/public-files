@@ -37,3 +37,6 @@
 37 numero-20210502_pallete_b.thor
 38 numero-20210502_pallete_c.thor
 39 numero-20210502_pallete_d.thor
+40 numero-20210502_pallete_e.thor
+41 numero-20210502_pallete_f.thor
+42 numero-20210502_pallete_g.thor
