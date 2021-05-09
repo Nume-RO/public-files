@@ -40,3 +40,4 @@
 40 numero-20210502_pallete_e.thor
 41 numero-20210502_pallete_f.thor
 42 numero-20210502_pallete_g.thor
+43 numero-20210509_iteminfo_a.thor
